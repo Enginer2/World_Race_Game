@@ -1,5 +1,5 @@
 ## ABOUT
-Texas Massacre is a demo Shooter Game.
+World Race is mobile racing game.
 
 ## OBJECTIVE
 1. Carry out exploratory testing.
